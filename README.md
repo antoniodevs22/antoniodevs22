@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <br><br>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRyZ3R3eHh6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="350" style="border-radius: 10px;">
+  </a>
+</div>
 
-  <img src="
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04336c&height=120&section=footer"/>
